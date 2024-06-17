@@ -1,0 +1,13 @@
+../Core/Src/vl53l1_platform.c:57:8:VL53L1_RdByte	32	static
+../Core/Src/vl53l1_platform.c:72:8:VL53L1_RdWord	40	static
+../Core/Src/vl53l1_platform.c:81:8:VL53L1_RdDWord	40	static
+../Core/Src/vl53l1_platform.c:90:8:VL53L1_ReadMulti	40	static
+../Core/Src/vl53l1_platform.c:103:8:VL53L1_WrByte	32	static
+../Core/Src/vl53l1_platform.c:110:8:VL53L1_WrWord	40	static
+../Core/Src/vl53l1_platform.c:118:8:VL53L1_WrDWord	40	static
+../Core/Src/vl53l1_platform.c:126:8:VL53L1_WriteMulti	40	static
+../Core/Src/vl53l1_platform.c:147:9:VL53L1__Xshut	24	static
+../Core/Src/vl53l1_platform.c:173:9:VL53L1__Init	24	static
+../Core/Src/vl53l1_platform.c:234:10:VL53L1__GetDistance	32	static
+../Core/Src/vl53l1_platform.c:288:9:VL53L1__SetTimingBudget	24	static
+../Core/Src/vl53l1_platform.c:304:9:VL53L1__SetDistanceMode	24	static
